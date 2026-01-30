@@ -11,9 +11,9 @@ I am looking for:
 - an internship of three months in June-July-August 2026 abroad
 - a work-study program in France from September 2026
 
-(https://www.linkedin.com/in/valentin-ryckaert-29b3052a2/)[My Linkedin]
-(https://portefolio-y32w.vercel.app)[My Portefolio]
-My email : valentin.ryckaert@protonmail.com
+🎓 [My Linkedin](https://www.linkedin.com/in/valentin-ryckaert-29b3052a2/) <br>
+📄 [My Portefolio](https://portefolio-y32w.vercel.app) <br>
+📨 My email : valentin.ryckaert@protonmail.com
 
 <br>
 

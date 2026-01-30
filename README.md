@@ -75,16 +75,18 @@ I am looking for:
 # Me 😁
 
 ### Soft Skills
-- Good interpersonal skills
-- Oral fluency
-- Self-learning
-- Rigorous
-- Calm
-- Loyal
+- 🗣️ Good interpersonal skills
+- 🎤 Oral fluency
+- 📚 Self-learning
+- 🔍 Rigorous
+- 🧘 Calm
+- 🤝 Loyal
+
 
 ### My other passions
-- Astronomy / Physics
-- Classical music and lyrical singing (I am in a conservatory in singing)
-- Poetry
-- Philosophy / Theology
-- Football (Soccer)
+- 🌌 Astronomy / Physics
+- 🎶 Classical music and lyrical singing (I am in a conservatory in singing)
+- ✍️ Poetry
+- 🏛️ Philosophy / Theology
+- ⚽ Football (Soccer)
+

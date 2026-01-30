@@ -15,9 +15,9 @@ I am looking for:
 
 # School Curriculum 
 
-- Baccalaureate in **Mathematics and IT** (Institution des Chartreux) 📜
-- 1st and 2nd year at **BTS SIO (Institution des Chartreux)**: Basics in IT and Programming 💻
-- 3rd year at **CPE Lyon**: Advanced IT, Dev, Cybersecurity and Network Engineering 🔒
+- 📜 Baccalaureate in **Mathematics and IT** (Institution des Chartreux)
+- 💻 1st and 2nd year at **BTS SIO (Institution des Chartreux)**: Basics in IT and Programming
+- 🔒 3rd year at **CPE Lyon**: Advanced IT, Dev, Cybersecurity and Network Engineering
 
 <br>
 

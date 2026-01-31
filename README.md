@@ -70,12 +70,13 @@ I am looking for:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinRyckaert&show_icons=true&theme=radical)
 
 ### My projects
-- [ITAM](https://github.com/valentinRyckaert/ITAM-backend) - Full-Stack web app in FastAPI and Svelte coded during my studies (In Progress)
-- [Assembly-Like Language (ALL)](https://github.com/valentinRyckaert/ALL) - Basic programming language writen in C inspired by assembly syntax (In Progress)
-- [Portefolio](https://github.com/valentinRyckaert/portefolio) - My portfolio in Bootstrap and Svelte (Under Maintenance)
-- [Piment](https://github.com/valentinRyckaert/Piment) - Web app in vanilla PHP coded during my studies (Finished)
-- [Distribute](https://github.com/valentinRyckaert/Distribute) - "blog-ticketing" mobile app in React Native and Supabase coded during my studies (Finished)
-- [CVESearcher](https://github.com/SpeeDelta/CVE-Searcher) - CLI in Typer (Python) for scanning a network a getting CVEs exposed on each machine (Finished)
+- [ITAM](https://github.com/valentinRyckaert/ITAM-backend) - Full-Stack web app in FastAPI and Svelte coded during my studies (In Progress 🟨)
+- [Assembly-Like Language (ALL)](https://github.com/valentinRyckaert/ALL) - Basic programming language writen in C inspired by assembly syntax (In Progress 🟨)
+- [L'algo en 27 exos](https://github.com/killex8569/algo-en-27-exos) - 27 algorithmics exercices to learn programming (In Progress 🟨)
+- [Portefolio](https://github.com/valentinRyckaert/portefolio) - My portfolio in Bootstrap and Svelte (Under Maintenance 🟦)
+- [Piment](https://github.com/valentinRyckaert/Piment) - Web app in vanilla PHP coded during my studies (Finished 🟩)
+- [Distribute](https://github.com/valentinRyckaert/Distribute) - "blog-ticketing" mobile app in React Native and Supabase coded during my studies (Finished 🟩)
+- [CVESearcher](https://github.com/SpeeDelta/CVE-Searcher) - CLI in Typer (Python) for scanning a network a getting CVEs exposed on each machine (Finished 🟩)
 
 <br>
 

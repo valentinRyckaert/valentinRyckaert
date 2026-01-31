@@ -70,10 +70,12 @@ I am looking for:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinRyckaert&show_icons=true&theme=radical)
 
 ### My projects
-- Portefolio - My portfolio in Bootstrap and Svelte (Under Maintenance)
-- Piment - Web app in vanilla PHP coded during my studies (Finished)
-- Distribute - "blog-ticketing" mobile app in React Native and Supabase coded during my studies (Finished)
-- ITAM - Full-Stack web app in FastAPI and Svelte coded during my studies (In Progress)
+- [Portefolio - My portfolio in Bootstrap and Svelte (Under Maintenance)](https://github.com/valentinRyckaert/portefolio)
+- [Piment - Web app in vanilla PHP coded during my studies (Finished)](https://github.com/valentinRyckaert/Piment)
+- [Assembly-Like Language (ALL) - Basic programming language writen in C inspired by assembly syntax (In Progress)](https://github.com/valentinRyckaert/ALL)
+- [Distribute - "blog-ticketing" mobile app in React Native and Supabase coded during my studies (Finished)](https://github.com/valentinRyckaert/Distribute)
+- [ITAM - Full-Stack web app in FastAPI and Svelte coded during my studies (In Progress)](https://github.com/valentinRyckaert/ITAM-backend)
+- [CVESearcher - CLI in Typer (Python) for scanning a network a get CVEs exposed on each machines (Finished)](https://github.com/SpeeDelta/CVE-Searcher)
 
 <br>
 

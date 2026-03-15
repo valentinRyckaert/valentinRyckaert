@@ -77,7 +77,7 @@ I am looking for:
 - [Piment](https://github.com/valentinRyckaert/Piment) - Web app in vanilla PHP coded during my studies (Finished 🟩)
 - [Distribute](https://github.com/valentinRyckaert/Distribute) - "blog-ticketing" mobile app in React Native and Supabase coded during my studies (Finished 🟩)
 - [CVESearcher](https://github.com/SpeeDelta/CVE-Searcher) - CLI in Typer (Python) for scanning a network a getting CVEs exposed on each machine (Finished 🟩)
-- [Donnez nous un stage ou une alternance](https://github.com/killex8569/DonnezNousUnStageOuUneAlternance) - react portefolio for our search for apprenticeship and internship (Under Maintenance 🟦)
+- [DonnezNousUnStageOuUneAlternance](https://github.com/killex8569/DonnezNousUnStageOuUneAlternance) - react portefolio for our search for apprenticeship and internship (Under Maintenance 🟦)
 
 <br>
 

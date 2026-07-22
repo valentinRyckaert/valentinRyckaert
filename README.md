@@ -61,7 +61,7 @@ I love developing applications, especially web apps and CLIs.
 
 # My Github
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinRyckaert&show_icons=true&theme=radical)
+![GitHub stats](https://acedev003-readme-stats.vercel.app/api?username=valentinRyckaert&show_icons=true&theme=radical)
 
 ### My projects
 - [ITAM](https://github.com/valentinRyckaert/ITAM-backend) - Full-Stack web app in FastAPI and Svelte coded during my studies (In Progress 🟨)
